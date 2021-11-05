@@ -1,4 +1,4 @@
-# bash-tools
+# Bash Tools
 
 ## Quick Open an App
 
